@@ -1,3 +1,5 @@
+# https://app.codility.com/programmers/lessons/1-iterations/binary_gap/
+
 def solution(N):    
     if N<5:
         return 0
